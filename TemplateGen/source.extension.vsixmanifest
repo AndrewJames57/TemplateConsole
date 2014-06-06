@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="TemplateGen..c774649d-d4b9-47a7-b0b8-12694a92cdf8" Version="1.0" Language="en-US" Publisher="Andy James" />
-    <DisplayName>TemplateGen</DisplayName>
-    <Description>Empty VSIX Project.</Description>
+    <Identity Id="TemplateGen..c774649d-d4b9-47a7-b0b8-12694a92cdf8" Version="1.2" Language="en-US" Publisher="Andy James" />
+    <DisplayName>Template Starter (Console)</DisplayName>
+    <Description xml:space="preserve">This is a starter template for Windows desktop console work. It includes NLog and NLog config for console, file and sentinal. </Description>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[12.0]" />
